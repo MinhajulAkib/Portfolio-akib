@@ -1,8 +1,7 @@
-# niloy.tech
+# minhajul.tech
+
 This is my personal portfolio.
 
+[<img src="/assets/images/akib.jpg">](-/)
 
-[<img src="front-page.png">](https://niloy.tech/)
-
-
-Click the link for Live - [niloy-biswas.github.io](https://niloy-biswas.github.io)
+Click the link for Live - [)
